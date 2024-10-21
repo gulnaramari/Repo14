@@ -37,5 +37,4 @@ def test_category_null(first_category_null):
         " но и получения дополнительных функций для удобства жизни"
     )
     assert len(first_category_null.products) == 0
-
     assert first_category_null.category_count == 4

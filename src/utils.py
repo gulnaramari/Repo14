@@ -1,6 +1,5 @@
 import json
 import os
-
 from src.main import Category, Product
 
 
